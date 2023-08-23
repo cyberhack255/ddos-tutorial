@@ -11,6 +11,6 @@ import fetch from 'node-fetch';
       })
     }
     
-    fetch('https://www.tinkoff.ru/').catch((e) => e)
+    fetch('https://pentestingkb.softnetsolutions.com.au').catch((e) => e)
   }
 })();
