@@ -11,6 +11,6 @@ import fetch from 'node-fetch';
       })
     }
     
-    fetch('https://softnetsolutions.com.au').catch((e) => e)
+    fetch('https://www.fastly.com').catch((e) => e)
   }
 })();
